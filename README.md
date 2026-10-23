@@ -1,2 +1,2 @@
-# Interview-Prepararion
+# Interview-Planner
 Prepare for interview
